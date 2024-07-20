@@ -20,7 +20,7 @@
 ## 📫 How to reach me
 - [LinkedIn](www.linkedin.com/in/johnramal)
 - [Email](johnailia51@gmail.com)
-- [Portfolio Website](johnramal.github.io)
+- [Portfolio Website](www.johnramal.github.io)
 
 ## ⚡ Fun fact
 - I learned CSS and HTML enough in one day to create my portfolio website using an existing template!
