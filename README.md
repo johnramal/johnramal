@@ -23,4 +23,4 @@
 - [Portfolio Website](https://johnramal.github.io)
 
 ## ⚡ Fun fact
-- I learned CSS and HTML enough in one day to create my portfolio website using an existing template!
+- I learned enough CSS and HTML in one day to create my portfolio website using an existing template!
