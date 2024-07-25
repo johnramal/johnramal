@@ -8,14 +8,13 @@
 - Fitness and Gym Workouts
 
 ## 🌱 I’m currently learning
-- Advanced Data Science Techniques
+- Advanced Data Analytics Techniques
 - Portfolio Website Optimization
 
 ## 💞️ I’m looking to collaborate on
 - Data Analysis Projects
 - Predictive Modeling Challenges
 - Open Source Data Science Contributions
-- Web Development Projects using Flask
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/johnramal)
