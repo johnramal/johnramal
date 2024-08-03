@@ -14,8 +14,7 @@
 ## 💞️ I’m looking to collaborate on
 - Data Analysis Projects
 - Predictive Modeling Challenges
-- Open Source Data Science Contributions
-
+- 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/johnramal)
 - [Email](mailto:johnailia51@gmail.com)
