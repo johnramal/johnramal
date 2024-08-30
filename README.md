@@ -1,24 +1,15 @@
-# 👋 Hi, I’m John Ramal
+# Hi, I’m John Ramal
 
-## 👀 I’m interested in
-- Data Science
-- Predictive Modeling
-- Data Analytics
-- Religious and Scientific Discussions
-- Fitness and Gym Workouts
+If you’re into data science, predictive modeling, and making sense of numbers, we’ll get along famously. When I’m not analyzing data, I’m probably debating the finer points of religion and science or trying to lift weights that make me question my life choices.
 
-## 🌱 I’m currently learning
-- Advanced Data Analytics Techniques
-- Portfolio Website Optimization
+## Currently Focused On
+- Mastering advanced data analytics techniques
+- Giving my portfolio website a makeover
 
-## 💞️ I’m looking to collaborate on
-- Data Analysis Projects
-- Predictive Modeling Challenges
-- 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/johnramal)
-- [Email](mailto:johnailia51@gmail.com)
-- [Portfolio Website](https://johnramal.github.io)
+## Looking To Collaborate On
+- Data analysis projects
+- Predictive modeling challenges
 
-## ⚡ Fun fact
-- I learned enough CSS and HTML in one day to create my portfolio website using an existing template!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/johnramal), drop me an [email](mailto:johnailia51@gmail.com), or check out my [portfolio](https://johnramal.com). 
+
+**Fun fact:** I crammed enough CSS and HTML knowledge in one day to build my entire portfolio site. Guess you could say I’m a quick learner—or just really stubborn!
